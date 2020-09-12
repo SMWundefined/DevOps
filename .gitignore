@@ -1,0 +1,10 @@
+
+terraform-docker-demo/terraform-aws/.terraform/.DS_Store
+terraform-docker-demo/.terraform/.DS_Store
+terraform-docker-demo/.terraform/plugins/.DS_Store
+terraform-docker-demo/.terraform/plugins/registry.terraform.io/terraform-providers/.DS_Store
+terraform-docker-demo/.terraform/plugins/registry.terraform.io/.DS_Store
+*.0_x5
+terraform-docker-demo/.terraform/plugins/registry.terraform.io/terraform-providers/docker/.DS_Store
+terraform-docker-demo/.terraform/plugins/registry.terraform.io/terraform-providers/docker/2.7.2/darwin_amd64/terraform-provider-docker_v2.7.2_x4
+terraform-docker-demo/.DS_Store
